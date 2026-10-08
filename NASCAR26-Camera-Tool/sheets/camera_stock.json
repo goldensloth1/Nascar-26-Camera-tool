@@ -1,0 +1,718 @@
+{
+ "ChassisDataAsset_ARCA": [
+  {
+   "view": "in_car0",
+   "camera": 0,
+   "check": [
+    -30.5,
+    -38.0,
+    56.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "in_car1",
+   "camera": 112,
+   "check": [
+    -29.5,
+    -38.0,
+    57.5
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "hood",
+   "camera": 224,
+   "check": [
+    77.0,
+    0.0,
+    70.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_hood",
+   "camera": 336,
+   "check": [
+    23.5,
+    0.0,
+    93.5
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "bumper",
+   "camera": 448,
+   "check": [
+    200.0,
+    0.0,
+    33.0
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "new_chase",
+   "camera": 672,
+   "check": [
+    -575.0,
+    0.0,
+    140.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_new_chase",
+   "camera": 752,
+   "check": [
+    -750.0,
+    0.0,
+    180.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "near_chase",
+   "chase": 560,
+   "check": [
+    4.3,
+    1.6,
+    -5.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "alt_chase",
+   "chase": 596,
+   "check": [
+    4.3,
+    1.0,
+    -5.0
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "rear_chase",
+   "chase": 632,
+   "check": [
+    3.0,
+    1.0,
+    -10.0
+   ],
+   "fov": 82.5
+  },
+  {
+   "view": "tv0",
+   "tv": 0,
+   "check": [
+    -50.800003,
+    0.0,
+    149.7
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv1",
+   "tv": 1,
+   "check": [
+    198.5,
+    0.0,
+    60.2
+   ],
+   "fov": 70.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv2",
+   "tv": 2,
+   "check": [
+    -9.3,
+    -35.600002,
+    93.5
+   ],
+   "fov": 50.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv3",
+   "tv": 3,
+   "check": [
+    -225.09999,
+    0.0,
+    89.8
+   ],
+   "fov": 75.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv4",
+   "tv": 4,
+   "check": [
+    -408.0,
+    -12.0,
+    114.100006
+   ],
+   "fov": 60.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv5",
+   "tv": 5,
+   "check": [
+    271.4,
+    -82.9,
+    80.2
+   ],
+   "fov": 45.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv6",
+   "tv": 6,
+   "check": [
+    -216.8,
+    -78.799995,
+    116.9
+   ],
+   "fov": 50.0,
+   "gfx": "Shell"
+  }
+ ],
+ "ChassisDataAsset_Cup": [
+  {
+   "view": "in_car0",
+   "camera": 0,
+   "check": [
+    -45.0,
+    -36.0,
+    61.2
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "in_car1",
+   "camera": 112,
+   "check": [
+    -55.0,
+    -36.0,
+    63.5
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "hood",
+   "camera": 224,
+   "check": [
+    44.0,
+    0.0,
+    80.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_hood",
+   "camera": 336,
+   "check": [
+    4.0,
+    6.0,
+    96.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "bumper",
+   "camera": 448,
+   "check": [
+    200.0,
+    0.0,
+    25.0
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "new_chase",
+   "camera": 672,
+   "check": [
+    -575.0,
+    0.0,
+    140.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_new_chase",
+   "camera": 752,
+   "check": [
+    -750.0,
+    0.0,
+    180.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "near_chase",
+   "chase": 560,
+   "check": [
+    4.3,
+    1.6,
+    -5.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "alt_chase",
+   "chase": 596,
+   "check": [
+    4.3,
+    1.0,
+    -5.0
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "rear_chase",
+   "chase": 632,
+   "check": [
+    3.0,
+    1.0,
+    -10.0
+   ],
+   "fov": 82.5
+  },
+  {
+   "view": "tv0",
+   "tv": 0,
+   "check": [
+    -50.800003,
+    0.0,
+    149.7
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv1",
+   "tv": 1,
+   "check": [
+    198.5,
+    0.0,
+    60.2
+   ],
+   "fov": 70.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv2",
+   "tv": 2,
+   "check": [
+    0.0,
+    0.0,
+    100.0
+   ],
+   "fov": 82.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv3",
+   "tv": 3,
+   "check": [
+    -225.09999,
+    0.0,
+    89.8
+   ],
+   "fov": 75.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv4",
+   "tv": 4,
+   "check": [
+    -408.0,
+    -12.0,
+    114.100006
+   ],
+   "fov": 60.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv5",
+   "tv": 5,
+   "check": [
+    271.4,
+    -82.9,
+    80.2
+   ],
+   "fov": 45.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv6",
+   "tv": 6,
+   "check": [
+    -216.8,
+    -78.799995,
+    116.9
+   ],
+   "fov": 50.0,
+   "gfx": "Shell"
+  }
+ ],
+ "ChassisDataAsset_Truck": [
+  {
+   "view": "in_car0",
+   "camera": 0,
+   "check": [
+    -30.0,
+    -35.0,
+    60.0
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "in_car1",
+   "camera": 112,
+   "check": [
+    -31.0,
+    -35.0,
+    60.5
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "hood",
+   "camera": 224,
+   "check": [
+    75.0,
+    0.0,
+    80.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_hood",
+   "camera": 336,
+   "check": [
+    25.0,
+    0.0,
+    109.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "bumper",
+   "camera": 448,
+   "check": [
+    200.0,
+    0.0,
+    25.0
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "new_chase",
+   "camera": 672,
+   "check": [
+    -590.0,
+    0.0,
+    140.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_new_chase",
+   "camera": 752,
+   "check": [
+    -760.0,
+    0.0,
+    180.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "near_chase",
+   "chase": 560,
+   "check": [
+    4.3,
+    1.6,
+    -5.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "alt_chase",
+   "chase": 596,
+   "check": [
+    4.3,
+    1.0,
+    -5.0
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "rear_chase",
+   "chase": 632,
+   "check": [
+    3.0,
+    1.0,
+    -10.0
+   ],
+   "fov": 82.5
+  },
+  {
+   "view": "tv0",
+   "tv": 0,
+   "check": [
+    -50.800003,
+    0.0,
+    145.7
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv1",
+   "tv": 1,
+   "check": [
+    198.5,
+    0.0,
+    60.199997
+   ],
+   "fov": 70.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv2",
+   "tv": 2,
+   "check": [
+    -10.0,
+    -35.0,
+    60.0
+   ],
+   "fov": 50.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv3",
+   "tv": 3,
+   "check": [
+    -225.09999,
+    0.0,
+    89.8
+   ],
+   "fov": 75.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv4",
+   "tv": 4,
+   "check": [
+    -408.0,
+    -12.0,
+    114.099976
+   ],
+   "fov": 60.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv5",
+   "tv": 5,
+   "check": [
+    271.4,
+    -82.9,
+    80.2
+   ],
+   "fov": 45.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv6",
+   "tv": 6,
+   "check": [
+    -150.0,
+    -100.0,
+    70.0
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  }
+ ],
+ "ChassisDataAsset_Xfinity": [
+  {
+   "view": "in_car0",
+   "camera": 0,
+   "check": [
+    -28.0,
+    -41.0,
+    54.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "in_car1",
+   "camera": 112,
+   "check": [
+    -27.0,
+    -41.0,
+    55.5
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "hood",
+   "camera": 224,
+   "check": [
+    50.0,
+    0.0,
+    80.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_hood",
+   "camera": 336,
+   "check": [
+    16.0,
+    0.0,
+    95.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "bumper",
+   "camera": 448,
+   "check": [
+    200.0,
+    0.0,
+    25.0
+   ],
+   "fov": 75.0
+  },
+  {
+   "view": "new_chase",
+   "camera": 672,
+   "check": [
+    -600.0,
+    0.0,
+    140.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "alt_new_chase",
+   "camera": 752,
+   "check": [
+    -760.0,
+    0.0,
+    180.0
+   ],
+   "fov": 90.0
+  },
+  {
+   "view": "near_chase",
+   "chase": 560,
+   "check": [
+    4.3,
+    1.6,
+    -5.5
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "alt_chase",
+   "chase": 596,
+   "check": [
+    4.3,
+    1.0,
+    -5.0
+   ],
+   "fov": 60.0
+  },
+  {
+   "view": "rear_chase",
+   "chase": 632,
+   "check": [
+    3.0,
+    1.0,
+    -10.0
+   ],
+   "fov": 82.5
+  },
+  {
+   "view": "tv0",
+   "tv": 0,
+   "check": [
+    -50.800003,
+    0.0,
+    149.7
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv1",
+   "tv": 1,
+   "check": [
+    198.5,
+    0.0,
+    60.2
+   ],
+   "fov": 70.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv2",
+   "tv": 2,
+   "check": [
+    -50.0,
+    58.0,
+    65.0
+   ],
+   "fov": 70.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv3",
+   "tv": 3,
+   "check": [
+    -225.09999,
+    0.0,
+    89.8
+   ],
+   "fov": 75.0,
+   "gfx": "None"
+  },
+  {
+   "view": "tv4",
+   "tv": 4,
+   "check": [
+    -408.0,
+    -12.0,
+    114.100006
+   ],
+   "fov": 60.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv5",
+   "tv": 5,
+   "check": [
+    271.4,
+    -82.9,
+    80.2
+   ],
+   "fov": 45.0,
+   "gfx": "Shell"
+  },
+  {
+   "view": "tv6",
+   "tv": 6,
+   "check": [
+    -216.8,
+    -78.799995,
+    116.9
+   ],
+   "fov": 50.0,
+   "gfx": "Shell"
+  }
+ ]
+}
